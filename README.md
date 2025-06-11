@@ -122,4 +122,3 @@ nome-do-projeto/
 * Documentação do Vite: [https://vitejs.dev/](https://vitejs.dev/)
 * Documentação do React: [https://react.dev/](https://react.dev/)
 
-```
